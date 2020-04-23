@@ -13,6 +13,7 @@ Setting up the application is simple:
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to run the application!
+
 Commands:
 - `Devils!` - Display your current list of devils
 - `Devilish!` - Generate a gifting pair scheme for Secret Satan
