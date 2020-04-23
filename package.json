@@ -1,0 +1,16 @@
+{
+  "name": "secret-satan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Sarah Tan z5166081@student.unsw.edu.au",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.12.20",
+    "fs": "0.0.1-security"
+  }
+}
